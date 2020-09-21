@@ -1,0 +1,37 @@
+# Germany, Baden-Wuerttemberg, Unitymedia/Kabel BW/Vodafone
+hiq4a-sbcv41a.kabelbw.de 80.69.110.106
+hiq4a-sbcv61a.kabelbw.de 2a02:908:a:1000::49
+hiq4a-sbcv461a.kabelbw.de 80.69.110.106 2a02:908:a:1000::49
+hiq4b-sbcv41a.kabelbw.de 80.69.110.107
+hiq4b-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:4a
+hiq4b-sbcv461a.kabelbw.de 80.69.110.107 2a02:908:a:1000:0:0:0:4a
+hiq5a-sbcv41a.kabelbw.de 80.69.110.108
+hiq5a-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:4b
+hiq5a-sbcv461a.kabelbw.de 80.69.110.108 2a02:908:a:1000:0:0:0:4b
+hiq5b-sbcv41a.kabelbw.de 80.69.110.109
+hiq5b-sbcv61a.kabelbw.de 2a02:908:a:1000::4c
+hiq5b-sbcv461a.kabelbw.de 80.69.110.109 2a02:908:a:1000:0:0:0:4c
+hiq6a-sbcv41a.kabelbw.de 80.69.110.110
+hiq6a-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:4d
+hiq6a-sbcv461a.kabelbw.de 80.69.110.110 2a02:908:a:1000:0:0:0:4d
+hiq6b-sbcv41a.kabelbw.de 80.69.110.111
+hiq6b-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:4e
+hiq6b-sbcv461a.kabelbw.de 80.69.110.111 2a02:908:a:1000:0:0:0:4e
+hiq7a-sbcv41a.kabelbw.de 80.69.110.115
+hiq7a-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:4f
+hiq7a-sbcv461a.kabelbw.de 80.69.110.115 2a02:908:a:1000:0:0:0:4f
+hiq7b-sbcv41a.kabelbw.de 80.69.110.116
+hiq7b-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:50
+hiq7b-sbcv461a.kabelbw.de 80.69.110.116 2a02:908:a:1000:0:0:0:50
+hiq8a-sbcv41a.kabelbw.de 80.69.110.80
+hiq8a-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:58
+hiq8a-sbcv461a.kabelbw.de 80.69.110.80 2a02:908:a:1000:0:0:0:58
+hiq8b-sbcv41a.kabelbw.de 80.69.110.81
+hiq8b-sbcv61a.kabelbw.de 2a02:908:a:1000:0:0:0:59
+hiq8b-sbcv461a.kabelbw.de 80.69.110.81 2a02:908:a:1000:0:0:0:59
+hiq9a-sbcv41a.kabelbw.de 80.69.110.78
+hiq9a-sbcv61a.kabelbw.de 2a02:908:a:1000::60
+hiq9a-sbcv461a.kabelbw.de 80.69.110.78 2a02:908:a:1000::60
+hiq9b-sbcv41a.kabelbw.de 80.69.110.79
+hiq9b-sbcv61a.kabelbw.de 2a02:908:a:1000::61
+hiq9b-sbcv461a.kabelbw.de 80.69.110.79 2a02:908:a:1000::61
